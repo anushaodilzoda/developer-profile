@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/anushaodilzoda/developer-profile/issues"
   },
-  "homepage": "https://github.com/anushaodilzoda/developer-profile#readme"
+  "homepage": "https://github.com/anushaodilzoda/developer-profile#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4",
+    "open": "^7.0.0"
+  }
 }
