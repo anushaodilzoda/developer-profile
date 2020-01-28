@@ -23,12 +23,7 @@ const colors = {
       headerColor: "white",
       photoBorderColor: "white"
     }
-    blue: {
-      wrapperBackground: "#DE9967",
-      headerBackground: "#870603",
-      headerColor: "white",
-      photoBorderColor: "white"
-    }
+ 
   };
   
   function generateHTML(data) {
